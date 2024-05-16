@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "transcribe-video-to-pt-br"
+version = "0.1.0"
+description = ""
+authors = ["Thierry Santos <thierrysantoos123@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+moviepy = "^1.0.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
