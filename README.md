@@ -1,3 +1,3 @@
-# Transcribe Video to PT-BR
+# Transcribe video's audio
 
-This project aims to transcribe videos to Portuguese (Brazil).
+This project aims to transcribe video's audio
